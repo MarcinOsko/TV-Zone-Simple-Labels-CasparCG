@@ -1,3 +1,27 @@
+#IDE files
+.idea
+.vscode
+
+# Sensitive foles
+.env
+.gitignore
+
+
+### Project local directory
+_backup/
+_Templates/
+build/
+dist/
+Templates/
+UI/
+main.spec
+
+
+
+
+
+
+### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
