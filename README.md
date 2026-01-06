@@ -10,6 +10,9 @@ Simple Labels is resilient to threats such as local network failure (loss of ser
 
 If You Find Simple Labels Appealing And Would Like To Integrate The Functionality Of Our Application And The Formats For Reading Data Files With Your Studio Systems, Please Contact Us. We Can Create A Customized Version Of Our Application Specifically For You.
 
+**You can see in the video how this application works live**:
+https://youtu.be/3aPjSf_-oqE
+
 
 Contact Us:
 ---------------
